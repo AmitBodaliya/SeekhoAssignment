@@ -93,9 +93,9 @@ The app will install and launch automatically.
 All screenshots for Light Theme are stored in the `/files/` folder.
 
 <p align="center">
-  <img src="files/screenshot_11.PNG" width="200" alt=""/>
-  <img src="files/screenshot_21.PNG" width="200" alt=""/>
-  <img src="files/screenshot_31.PNG" width="200" alt=""/>
+  <img src="files/screeshot_11.png" width="200" alt=""/>
+  <img src="files/screeshot_21.png" width="200" alt=""/>
+  <img src="files/screeshot_31.png" width="200" alt=""/>
 </p>
 
 ### Dark Mode
@@ -103,9 +103,9 @@ All screenshots for Light Theme are stored in the `/files/` folder.
 All screenshots for Dark Theme are stored in the `/files/` folder.
 
 <p align="center">
-  <img src="files/screenshot_1.PNG" width="200" alt=""/>
-  <img src="files/screenshot_2.PNG" width="200" alt=""/>
-  <img src="files/screenshot_3.PNG" width="200" alt=""/>
+  <img src="files/screeshot_1.png" width="200" alt=""/>
+  <img src="files/screeshot_2.png" width="200" alt=""/>
+  <img src="files/screeshot_3.png" width="200" alt=""/>
 </p>
 
 ---
